@@ -1,6 +1,6 @@
 # Data-Wrangler Community
 
-![Data-Wrangler Logo or Image]([link-to-your-logo-or-image.png](https://i.ibb.co/QNDm6bJ/OIG-26.jpg))
+![Data-Wrangler Logo or Image]((https://i.ibb.co/QNDm6bJ/OIG-26.jpg))
 
 ## About
 
