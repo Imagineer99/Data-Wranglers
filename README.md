@@ -33,9 +33,6 @@ To maintain a positive and inclusive community, we adhere to a [Code of Conduct]
 
 ## Connect With Us
 
-- **Forum**: [Link to Forum](link-to-forum)
-- **Twitter**: [@YourTwitterHandle](link-to-your-twitter)
-- **Email**: [Your Email](mailto:you@example.com)
+- **Discord**: [Link to Forum](link-to-forum)
 
-[Include any other relevant contact information or links here]
 
